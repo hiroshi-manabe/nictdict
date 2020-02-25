@@ -12,6 +12,12 @@ NICT日本語辞書
 - nictdict_ne.tsv 固有名詞辞書
 - nictdict_declinable.tsv 用言辞書
 
+ライセンス
+----------
+
+[LICENSE.md](/LICENSE.md)をご参照ください。
+
+
 形式
 ----
 
@@ -49,6 +55,10 @@ pos_table_ipadic.tsv をご参照ください。
 IPADICの活用型をベースにしています。
 
 pos_table_ipadic.tsv をご参照ください。
+
+### 活用について
+
+[活用について](/inflection.md)をご参照ください。
 
 ### 表記
 
